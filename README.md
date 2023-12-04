@@ -19,3 +19,6 @@ This repository is organized into distinct Jupyter notebooks and a final report,
 
 ### Final Report
 The report provides a detailed account of our methodologies, findings, and visualizations in clustering, text mining, and ANN.
+
+## Contributing
+Feel free to fork the project and submit pull requests. For major changes, please open an issue first to discuss what you would like to change.
