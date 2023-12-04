@@ -18,4 +18,4 @@ This repository is organized into distinct Jupyter notebooks and a final report,
    - Development and training of Artificial Neural Networks.
 
 ### Final Report
-- **`CSC177-Project4Report.pdf`**: This report provides a detailed account of our methodologies, findings, and visualizations in clustering, text mining, and ANN.
+The report provides a detailed account of our methodologies, findings, and visualizations in clustering, text mining, and ANN.
